@@ -1,4 +1,4 @@
-const apiUrl = '/api/patients';
+const apiUrl = 'https://mediqueue-api-99d9.onrender.com/api/patients';
 const form = document.getElementById('registrationForm');
 const nameInput = document.getElementById('name');
 const ageInput = document.getElementById('age');
